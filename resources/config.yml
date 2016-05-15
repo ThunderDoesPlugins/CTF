@@ -1,0 +1,5 @@
+---
+#The map to be used for this server
+#ctf1 or ctf2
+map: "ctf1"
+...

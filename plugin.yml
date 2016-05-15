@@ -1,0 +1,16 @@
+name: CTF
+author: HotshotHD
+main: CTF\CTF
+description: CTF Plugin
+version: 1.0.0
+api: 2.0.0
+
+commands:
+  start:
+    description: 
+    permission: ctf.command.start
+
+permissions:
+  ctf.command.start:
+    description: Allows to use /start
+    default: op
